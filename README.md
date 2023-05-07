@@ -6,14 +6,6 @@
 
 <h3 align="center"> 💻 Currently studying to be a Full Stack Developer 💻 </h3>
 
-
-
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=blezno)](https://git.io/streak-stats)
- 
-</div>
-
 <br>
 
 - 🍂 Pronouns: She/Her 
@@ -24,7 +16,7 @@
 
 <div>
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,git,github,figma,postgres,react,rails,ruby)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,git,github,figma,postgres,react,rails,ruby, graphql,js,nodejs,ts,tailwind,aws)](https://skillicons.dev)
 
 </div>
 
@@ -36,6 +28,18 @@
 
 </div>
 
+<br>
+
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=blezno)](https://git.io/streak-stats)
+ 
+</div>
+
+<br>
+- 🤝 Connect with me :
+ <div>
+    <a target="_blank" href="https://www.linkedin.com/in/belen-gn/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Five cats looking around a field." /></a>
 <br>
 
 * 📑 Where do I go to improve my skills :
